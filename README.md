@@ -19,5 +19,4 @@ Images are in `images/`; friend crops are in `images/friends/`.
 
 Audio is generated in the browser with Web Audio; no external audio file is required. Google Fonts are loaded online, with local system fallbacks.
 
-## Hackathon note
-Review the event rules about pre-existing code and asset credits before submitting. Add your own commits during the event and deploy the project publicly if required by the organizers.
+
