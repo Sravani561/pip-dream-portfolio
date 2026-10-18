@@ -1,1 +1,0 @@
-Upload these files to the ROOT of your existing GitHub repository, replacing index.html when prompted. Keep your existing root image files (including pip-dream-world.png). The HTML references root-level image filenames, matching the repository file list you shared. Do not upload this README if you do not want it visible on your website.
